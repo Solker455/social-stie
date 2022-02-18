@@ -1,0 +1,35 @@
+.header {
+    background-color: #2a5885;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 100px;
+}
+
+.header-right-menu {
+    font-size: 16pt;
+    display: flex;
+    justify-content: center;
+}
+
+.header-left__logo {
+    font-size: 25pt;
+    font-weight: bold;
+}
+
+.header-left__search {
+    margin-left: 50px;
+    width: 350px;
+    height: 35px;
+    font-size: 16pt;
+}
+
+.header-left {
+    display: flex;
+    justify-content: center;
+}
+
+.header-right-menu__item {
+    margin: 15px;
+}
